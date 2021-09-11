@@ -1,4 +1,4 @@
-package com.exception;
+package StringHandling;
 
 public class StringDemo {
 	public static void main(String[]args) {
