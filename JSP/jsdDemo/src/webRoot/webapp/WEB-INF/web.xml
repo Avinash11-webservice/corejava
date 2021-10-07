@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app >
+  <servlet>
+    <servlet-name>myFirstServlet</servlet-name>
+    <servlet-class>myFirstServlet</servlet-class>
+  </servlet>
+ 
+ 
+  <servlet-mapping>
+    <servlet-name>myFirstServlet</servlet-name>
+    <url-pattern>myFirstServlet</url-pattern>
+  </servlet-mapping>
+ 
+ 
+
+
+</web-app>
